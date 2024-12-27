@@ -12,9 +12,9 @@
 ------------
 ## 期中作業
 **作業**
-* [第一章習題](01/README.md) : AI製作與參考同學的電路圖
-* [第二章習題](02/README.md) : AI製作與參考同學的電路圖
-* [第三章習題](03/README.md) : AI製作與參考同學的電路圖
-* [第四章習題](04/README.md) : 
-* [第五章習題](05/README.md) : 
+* [第一章習題](https://github.com/Raylee123321/_co/tree/master/01) : AI製作與參考同學的電路圖
+* [第二章習題](https://github.com/Raylee123321/_co/tree/master/02) : AI製作與參考同學的電路圖
+* [第三章習題](https://github.com/Raylee123321/_co/tree/master/03) : AI製作與參考同學的電路圖
+* [第四章習題](04) : 
+* [第五章習題](05) : 
 ------------
