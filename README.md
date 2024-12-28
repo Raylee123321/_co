@@ -15,6 +15,6 @@
 * [第一章習題](https://github.com/Raylee123321/_co/tree/master/01) : AI製作與參考同學的電路圖
 * [第二章習題](https://github.com/Raylee123321/_co/tree/master/02) : AI製作與參考同學的電路圖
 * [第三章習題](https://github.com/Raylee123321/_co/tree/master/03) : AI製作與參考同學的電路圖
-* [第四章習題](04) : 
-* [第五章習題](05) : 
-------------
+* [第四章習題](https://github.com/Raylee123321/_co/tree/master/04) :  AI製作與參考同學的電路圖
+* [第五章習題](https://github.com/Raylee123321/_co/tree/master/05) :  AI製作與參考同學的電路圖
+------------ 
